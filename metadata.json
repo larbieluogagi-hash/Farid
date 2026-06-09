@@ -1,0 +1,8 @@
+{
+  "name": "Grid Evasion",
+  "description": "An interactive 2D grid evasion game featuring procedural connected layouts, smart BFS chaser drone AI, cyber mechanical D-PAD controls, and Room SQLite scoreboard ranks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
